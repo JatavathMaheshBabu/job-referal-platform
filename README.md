@@ -1,7 +1,5 @@
 # job-referal-platform
 
-# job-referal-platform
-
 # AI-Assisted Job Referral Platform
 
 A full-stack Job Referral Platform that allows recruiters to create job postings and manage referrals, while candidates can browse available jobs, refer friends, and track referral status.
